@@ -27,7 +27,7 @@ class MissionData {
     }
 
     File getPhoto() {
-        return new File(directory, "${number}.jpg")
+        return new File(directory, "${number}.png")
     }
     File getMap() {
         return new File(directory, "map${number}.png")
