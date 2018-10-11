@@ -80,19 +80,24 @@ We will be very glad to see everyone who wants to explore Dnipro with us and inv
 [Чат Флуд](https://t.me/joinchat/A8VHT0juMdLxvRddTn1v5A)
 [Instagram](https://www.instagram.com/missionday.dnipro/)"""
     private static final String UI_INFO_RU = """
-Добро пожаловать в официальный телеграм бот Mission Day Dnipro.
+Добро пожаловать в официальный телеграм-бот Mission Day Mykolaiv 2018.
 
-Мы все с нетерпением ждали этого момента - и вот, он настал! С радостью приглашаем вас 11 августа на День Миссий в славном городе на реке Днепр в самом сердце Украины❤️
+Николаев — яркий, живописный город, хранитель истории Черноморского флота и отечественного кораблестроения.
 
-Маршрут, продуманный до мелочей, вмещающий в себя прогулку по центру города, посещение трёх парковых зон, ознакомление с самой длинной набережной Европы и Монастырским островом с искусственным водопадом.
+Здесь вы можете пройтись по самой длинной пешеходной улице Украины, посетить лучший украинский зоопарк, единственный в стране музей судостроения и флота. А также найти множество других удивительных мест, большинство которых мы постарались собрать по маршрутам миссий.
 
-Мы с нетерпением ждём каждого, кто желает с нами исследовать Днепр, и приглашаем на другие посвященные мероприятию страницы:
+Присоединяйтесь к нам в этом замечательном путешествии!
 
-[Інформационный канал Telegram](https://t.me/md_dp)
-[Форма пре-регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdKGCuKazJ3oWGG3ylALGI5Ydn1uar3Rbyv-36Dn-BTq23uZw/viewform)
-[Чат NF](https://t.me/joinchat/A8VHTw_O1k159V8k_vNIgQ)
-[Чат Флуд](https://t.me/joinchat/A8VHT0juMdLxvRddTn1v5A)
-[Instagram](https://www.instagram.com/missionday.dnipro/)"""
+Подробности — в Телеграм-канале, чатах и на страницах мероприятия в соцсетях:
+
+[Канал](https://t.me/MDMykolaivUA)
+[Чат No Flood](https://t.me/MDMykolaivUAchat)
+[Флудилка](https://t.me/MDMykolaivUAflood)
+[Instagram](https://www.instagram.com/mykolaivmd/)
+[Facebook](https://www.facebook.com/mykolaivmd)
+[Google+](https://plus.google.com/communities/100868472567022816727)
+
+P. S. Благодарим Максима @mihmax за разработку и открытый исходный код бота."""
 
     private static
     final Map<Language, String> UI_SETTINGs = [(EN): 'Select your language', (UK): 'Оберіть мову', (RU): 'Выберите язык']
